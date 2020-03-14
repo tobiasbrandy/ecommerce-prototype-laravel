@@ -1,6 +1,6 @@
 ﻿ # E-Commerce Prototype in Laravel and MySQL
  
-## This was the final project of the Full-Stack course in Digital House I participated in the last year of highschool. The end goal was to make a functional e-commerce with the features listed below. The projects integrates HTML, CSS, PHP, Laravel, JS and MySQL
+## This was the final project of the Full-Stack course in Digital House I participated in 2016, my last year of highschool. The end goal was to make a functional e-commerce with the features listed below. The projects integrates HTML, CSS, PHP, Laravel, JS and MySQL
 
 
  ## Content List:
